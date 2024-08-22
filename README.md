@@ -8,7 +8,7 @@
 
 ## 相关代码
 
-- 如何用Python对掼蛋进行理牌 [代码文件](code/1掼蛋普通理牌.ipynb)
+- [如何用Python对掼蛋进行理牌](https://www.bilibili.com/video/BV1mMW5eMEpN/) [代码文件](code/1掼蛋普通理牌.ipynb)
 
 ## 其他桌游
 
